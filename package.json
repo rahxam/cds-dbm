@@ -40,7 +40,7 @@
   },
   "homepage": "https://github.com/mikezaschka/cds-dbm#readme",
   "dependencies": {
-    "@sap/cds": "^5.8.3",
+    "@sap/cds": "^5.9.4",
     "@types/js-yaml": "^4.0.5",
     "@types/pg": "^8.6.5",
     "@types/sqlite3": "^3.1.8",
@@ -48,7 +48,8 @@
     "js-yaml": "^4.1.0",
     "liquibase": "^4.4.0",
     "pg": "^8.7.3",
-    "yargs": "^17.3.1"
+    "ibm_db": "^2.8.1",
+    "yargs": "^17.4.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^16.2.1",
